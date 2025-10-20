@@ -1,3 +1,0 @@
-C:\Users\lugre\AndroidStudioProjects\Kotlin Koans\Conventions\For loop\src\MyDate.kt
-C:\Users\lugre\AndroidStudioProjects\Kotlin Koans\Conventions\For loop\src\Task.kt
-C:\Users\lugre\AndroidStudioProjects\Kotlin Koans\Conventions\For loop\src\DateUtil.kt
