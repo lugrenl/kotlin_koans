@@ -1,2 +1,0 @@
-C:\Users\lugre\AndroidStudioProjects\Kotlin Koans\Collections\Compound tasks\src\Task.kt
-C:\Users\lugre\AndroidStudioProjects\Kotlin Koans\Collections\Compound tasks\src\Shop.kt
